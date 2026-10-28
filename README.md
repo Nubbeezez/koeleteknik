@@ -9,5 +9,6 @@ Danfoss-manualer konverteret til Markdown til brug i Claude-projektet "Køletekn
 | `danfoss/ak-sm-800/` | AK-SM 800 (gammel model) | Quick Setup Guide – ikke det samme som 800A |
 | `danfoss/ak-cc55/` | AK-CC55 Single Coil / Single Coil UI | SW 1.7x |
 | `danfoss/ak-cc-550/` | AK-CC 550 (ældre møbelcontroller) | Dansk. Andre alarmkoder end AK-CC55 |
+| `dixell/xr60cx/` | Dixell XR60CX (møbel/rum-controller) | r1.1, 2015 |
 
-Mangler: UltraCella.
+Mangler: UltraCella. Flere Dixell-modeller tilføjes løbende.
